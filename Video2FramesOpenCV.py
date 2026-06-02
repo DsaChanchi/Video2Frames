@@ -90,9 +90,3 @@ while True:
 cap.release()
 
 print(f"\nFrames guardados: {saved_count}")
-
-    frame_count += 1
-
-print(f"Se guardaron {frame_count} fotogramas.")
-
-cap.release()
